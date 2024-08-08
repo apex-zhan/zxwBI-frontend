@@ -5,7 +5,7 @@
 # ZXW BI 前端项目
 
 > 前端项目地址：[zxw](http://gitlab.code-nav.cn/zxw/mybi)
-喜欢的话求给start❤️💕
+> 喜欢的话求给start❤️💕
 
 ## 项目运行
 1. npm install 
