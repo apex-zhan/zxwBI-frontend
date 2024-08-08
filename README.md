@@ -6,12 +6,12 @@
 
 > 作者：[zxw](http://gitlab.code-nav.cn/zxw/mybi)
 
-##项目运行
+## 项目运行
 1. npm install 
 2. npm start
 3. npm run dev
 
-##前端技术栈
+## 前端技术栈
 1. React 18
 2. Umi 4 前端框架
 3. Ant Design Pro 5.x 脚手架
